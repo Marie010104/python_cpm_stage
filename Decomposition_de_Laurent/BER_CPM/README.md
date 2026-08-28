@@ -40,7 +40,8 @@ python laurent_viterbi_gmsk.py
 - Graphique semi-logarithmique BER vs `Eb/N0` (courbe simulée et courbe théorique).
 - Temps d'exécution total affiché en fin de script.
 
-  viterbi_laurent_RC
+
+viterbi_laurent_RC
 
   # Récepteur de Laurent (AMP) — Impulsion RC — Simulation BER
 
